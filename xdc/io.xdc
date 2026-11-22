@@ -1,0 +1,6 @@
+set_property PACKAGE_PIN K17 [get_ports clk_50M]
+set_property IOSTANDARD LVCMOS33 [get_ports clk_50M]
+set_property PACKAGE_PIN V15 [get_ports uart_rxd]
+set_property PACKAGE_PIN W15 [get_ports uart_txd]
+set_property IOSTANDARD LVCMOS33 [get_ports uart_rxd]
+set_property IOSTANDARD LVCMOS33 [get_ports uart_txd]
